@@ -19,7 +19,7 @@ export default [
     },
 
     {
-        id: 1,
+        id: 3,
         title: "Harry Potter and the Prisoner of Azkaban", 
         year: 2010,
         director: "Mark Osborne",
@@ -28,7 +28,7 @@ export default [
         image: require("./assets/kung-fu-panda.jpg")
       },
       {
-        id: 2,
+        id: 4,
         title: "Harry Potter and the Goblet of Fire",
         year: 2011,
         director: "Chris Columbus",
